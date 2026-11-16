@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "docode",
+    "name": "DoCode",
+    "url": "https://docode.cc",
+    "category": "注册福利",
+    "benefit": "站内额度",
+    "note": "参考目录收录了注册及邀请奖励；站内计价单位不能按美元理解。",
+    "referral_url": "",
+    "verified": false,
+    "source": "https://panxunying.github.io/ai-coding-welfare/",
+    "reviewed": "2026-11-16"
+  },
+  {
+    "slug": "agentrouter",
+    "name": "AgentRouter",
+    "url": "https://agentrouter.org",
+    "category": "每日签到",
+    "benefit": "注册 / 签到",
+    "note": "参考目录收录了注册与签到活动；本次访问官网遇到防护页，未核实领取条件。",
+    "referral_url": "",
+    "verified": false,
+    "source": "https://panxunying.github.io/ai-coding-welfare/",
+    "reviewed": "2026-11-16"
+  },
+  {
+    "slug": "anyrouter",
+    "name": "AnyRouter",
+    "url": "https://anyrouter.top",
+    "category": "每日签到",
+    "benefit": "注册 / 签到",
+    "note": "参考目录收录了注册与签到活动；官网未返回可读取的活动正文。",
+    "referral_url": "",
+    "verified": false,
+    "source": "https://panxunying.github.io/ai-coding-welfare/",
+    "reviewed": "2026-11-16"
+  },
+  {
+    "slug": "happy-code",
+    "name": "Happy Code",
+    "url": "https://happycodeai.com",
+    "category": "注册福利",
+    "benefit": "社群领取",
+    "note": "参考目录提及新人体验活动及社群领取步骤，具体要求需在官网确认。",
+    "referral_url": "",
+    "verified": false,
+    "source": "https://panxunying.github.io/ai-coding-welfare/",
+    "reviewed": "2026-11-16"
+  },
+  {
+    "slug": "prime-relay",
+    "name": "Prime Relay",
+    "url": "https://www.primerelay.online",
+    "category": "每日签到",
+    "benefit": "注册 / 签到",
+    "note": "参考目录提及注册体验和每日签到，活动额度及有效期尚待核实。",
+    "referral_url": "",
+    "verified": false,
+    "source": "https://panxunying.github.io/ai-coding-welfare/",
+    "reviewed": "2026-11-16"
+  },
+  {
+    "slug": "matrix",
+    "name": "Matrix",
+    "url": "https://matrix.mzsjai.com",
+    "category": "注册福利",
+    "benefit": "积分制",
+    "note": "参考目录提及邀请积分奖励，积分与货币的换算应以平台说明为准。",
+    "referral_url": "",
+    "verified": false,
+    "source": "https://panxunying.github.io/ai-coding-welfare/",
+    "reviewed": "2026-11-16"
+  }
+]
