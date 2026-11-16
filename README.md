@@ -15,7 +15,7 @@ python3 scripts/check.py
 
 ## 填写你的邀请链接
 
-编辑 `data/sites.json` 对应站点的 `referral_url`，填入完整 HTTPS 邀请链接。留空时按钮直达官网，不含原参考站邀请码。填写后还应更新 `scripts/build.py` 中首页及收录规则页的「尚未配置」文案。
+编辑 `data/sites.json` 对应站点的 `referral_url`，填入完整 HTTPS 邀请链接。留空时按钮直达官网，不含原参考站邀请码。按钮与披露会自动跟随链接配置。
 
 站点资料当前全部待核实。`reviewed` 是资料整理日期，不是领取测试日期。不要仅修改 `verified` 就宣称实测，应同时在详情模板中补充实际证据和核实范围。
 
